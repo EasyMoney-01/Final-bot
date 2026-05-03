@@ -1,0 +1,6 @@
+pytelegrambotapi==4.18.0
+flask==3.0.0
+psutil==5.9.7
+requests==2.31.0
+schedule==1.2.1
+gunicorn==21.2.0
